@@ -1,0 +1,36 @@
+Materials
+
+8 m2x12 screws - https://www.amazon.com/Hilitchi-300-Piece-Phillips-Assortment-stainless/dp/B01NBOD98K/ref=sr_1_3?crid=34ZLL3CGXTOUJ&dchild=1&keywords=m2+screws+and+nuts&qid=1623781981&sprefix=m2+screws%2Caps%2C196&sr=8-3
+
+1/16 in Neoprene Foam Padding for gaskets, cut to size with a razor - https://www.amazon.com/dp/B081PWQK1H?psc=1&ref=ppx_yo2_dt_b_product_details
+
+2mm thick Rubber anti-skid pads cut to size - https://www.amazon.com/gp/product/B01K7JFXAA/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1
+
+
+
+3D print Settings
+
+On my CR10 V2, I printed the design by with 15% infill, rafts, and tree supports.
+
+Printed using Black Overture PLA - https://www.amazon.com/gp/product/B01K7JFXAA/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1
+
+
+
+Plate Manufacturing
+
+I ordered my design plate on sculptero. I ordered a 2mm POM plate to be laser cut. If you can find a 1.5mm plate, get one so the key switches can clip into place.
+
+If you have a large enough print bed, you can also 3D print one with a material of your choice and the files are included. Note that I have not tested it.
+
+
+
+Keyboard Materials
+
+67 Keyswitches with arrowblocker, or 68 keyswitches without arrowblocker
+
+3 2u stabilizers
+1 6.25 stabilizer
+
+set of keycaps
+
+65% PCB of the size __ with a USB C port on the left size of the PCB. I used the Instant65 - https://cannonkeys.com/collections/pcbs/products/instant65-pcb?variant=32068070080623
