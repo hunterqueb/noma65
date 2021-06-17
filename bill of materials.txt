@@ -33,7 +33,7 @@ Keyboard Materials
 
 set of keycaps
 
-65% PCB of the size __ with a USB C port on the left size of the PCB. I used the Instant65 - https://cannonkeys.com/collections/pcbs/products/instant65-pcb?variant=32068070080623
+65% PCB of an approximate size of 302.5mm x 92.5mm with a USB C port on the left size of the PCB. I used the Instant65 - https://cannonkeys.com/collections/pcbs/products/instant65-pcb?variant=32068070080623
 
 
 Approximate Cost:
@@ -49,4 +49,4 @@ Keyswitches: $30
 Stablizers: $20
 Keycaps: $30
 
-Board cost that I spent: ~$230
+Total board cost that I spent: ~$230
